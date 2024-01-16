@@ -2,6 +2,7 @@ Bonjour Monsieur,
 Voici le lien de la vidéo youtube expliquant le cablage et le code arduino du système demandé:
 https://youtu.be/FCEwMlfzAWw
 
+Code arduino:
 
 #include <Servo.h>
 
